@@ -84,7 +84,7 @@
 
 ## 🎒 Образование
 [<img src="/Cert_m.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/AndreiMazur/AndreiMazur/refs/heads/master/Cert_m.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/Stepik_cert.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/AndreiMazur/AndreiMazur/refs/heads/master/Stepik_cert.png)
 
 <br>
 <br>
